@@ -1,0 +1,9 @@
+using UnityEngine;
+using System.Collections;
+
+namespace SVell {
+	public interface #SCRIPTNAME#
+	{
+    	#NOTRIM#
+	}
+}
